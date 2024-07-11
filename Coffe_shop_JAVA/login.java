@@ -2,7 +2,6 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-
 public class login extends JFrame implements ActionListener {
     JButton b1, b2, b3;
     JTextField t1, t2;
